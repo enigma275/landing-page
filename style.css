@@ -1,0 +1,19 @@
+.section_1 {
+    background-color: #1f2937;
+}
+
+.hero_main_text {
+    font-size: 48px;
+    font-weight: 800;
+    color: #f9faf8;
+}
+
+.hero_secondary_text,.header_link {
+    font-size: 18px;
+    color: #e5e7eb;
+}
+
+.header_logo {
+    font-size: 24px;
+    color: #f9faf8;
+}
